@@ -1,0 +1,23 @@
+{
+  "name": "helloslack",
+  "version": "1.0.0",
+  "description": "belajar nodejs dan slack",
+  "main": "server/service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liasetiawan/helloslack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liasetiawan/helloslack/issues"
+  },
+  "homepage": "https://github.com/liasetiawan/helloslack#readme",
+  "dependencies": {
+    "@slack/client": "^4.2.2",
+    "express": "^4.16.3"
+  }
+}
